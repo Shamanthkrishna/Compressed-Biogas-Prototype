@@ -1,2 +1,2 @@
-# Compressed-Biogas-Prototype
-This final year engineering project focuses on developing a miniature prototype for purifying and compressing biogas from organic waste. It involves anaerobic digestion, biogas purification to remove impurities, and compression into cylinders for efficient storage and transport, promoting clean energy from organic waste.
+# DESIGN OF MINIATURE PROTOTYPE FOR ORGANIC WASTE BASED COMPRESSED BIOGAS PRODUCTION AND PURIFICATION
+This final year engineering project involves the development of a miniature prototype for purifying and compressing biogas generated from organic waste. The process includes anaerobic digestion, followed by the purification of the biogas to remove impurities and its compression into cylinders for convenient storage and transport. This sustainable solution emphasizes the effective utilization of organic waste for clean energy production.
