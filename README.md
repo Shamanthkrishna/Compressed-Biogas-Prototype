@@ -24,16 +24,31 @@ This final year engineering project focuses on developing a miniature prototype 
 - **Final Report**: Compiled in the [Group_8_Final_Report_2](https://github.com/Shamanthkrishna/Compressed-Biogas-Prototype/blob/main/Group_8_Final_Report_2.pdf) including a plagiarism report.
 - **Poster**: Prepared for the EXPro exhibition, available in [Group_8_Poster](https://github.com/Shamanthkrishna/Compressed-Biogas-Prototype/blob/main/Group_8_Poster.pdf).
 
-## Drive Folder
+## Project Documentation and Resources
 
-Access the project videos through the following Drive link: [Drive Link](https://drive.google.com/drive/folders/1lWYpNlC04n9FMAhusWgJhgHYuMGm6cxa?usp=sharing)
+The project documentation and resources can be accessed through the following Google Drive folder link: [Project Drive Folder](your-drive-folder-link).
 
-- **Overall View.mp4**: Provides an overall view of the setup while running.
-- **Process Flow.mp4**: Demonstrates the step-by-step process of how the gas travels from the tube to the cylinder.
-- **Purification Process.mp4**: Shows the purification chamber view during setup operation.
-- **Cylinder Stored with Gas.mp4**: Features the release of gas directly from the cylinder when tested with atmospheric air.
-- **Release of Gas.mp4**: Displays the release of gas through fitted burners, tested with atmospheric air.
-- **Combustion Test.mp4**: Shows the combustion of purified biogas with visible flame until the cylinder is emptied.
+### Contents of the Drive Folder:
+
+1. **Overall View.mp4**: Provides a comprehensive view of the entire setup while it is running, showcasing the complete prototype in action.
+
+2. **Process Flow.mp4**: Demonstrates the step-by-step process of how the gas travels from the tube to the cylinder, visually explaining the flow of the system.
+
+3. **Purification Process.mp4**: Focuses on the purification chamber, showing its operation while the setup is running.
+
+4. **Cylinder Stored with Gas.mp4**: Displays the release of gas directly from the cylinder when tested with atmospheric air.
+
+5. **Release of Gas.mp4**: Shows the release of gas after fitting the cylinder with gas burners, tested with atmospheric air.
+
+6. **Combustion Test.mp4**: Captures the release and ignition of purified biogas, demonstrating the combustion of the gas until the cylinder is emptied.
+
+7. **Final Report (Group_8_Final_Report_2.pdf)**: Comprehensive final report of the project, including the plagiarism report at the end.
+
+8. **Project Poster (Group_8_Poster.pdf)**: Poster prepared for the EXPro, summarizing key aspects of the project.
+
+9. **Sanction Letters**:
+   - **KSCST Sanction Letter (47S_BE_3732 Sanction.pdf)**: Official sanction letter from the Karnataka State Council for Science and Technology (KSCST) confirming funding of Rs. 5,500.
+   - **Nitte University Sanction Letter (NRGNUSR2NMAMIT202301.pdf)**: Official sanction letter from Nitte University confirming funding of Rs. 10,000.
 
 ## Academic Progress
 
