@@ -26,7 +26,7 @@ This final year engineering project focuses on developing a miniature prototype 
 
 ## Project Documentation and Resources
 
-The project documentation and resources can be accessed through the following Google Drive folder link: [Project Drive Folder](your-drive-folder-link).
+The project documentation and resources can be accessed through the following Google Drive folder link: [Project Drive Folder](https://drive.google.com/drive/folders/1L0GoGj9u00zrAVynJ8iJR13WyDl9PFIg?usp=drive_link).
 
 ### Contents of the Drive Folder:
 
